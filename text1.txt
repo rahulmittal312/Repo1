@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B0E4-AB47
+
+ Directory of C:\Users\hp\Desktop\myproject
+
+10-05-2020  12:06    <DIR>          .
+10-05-2020  12:06    <DIR>          ..
+10-05-2020  12:06                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,512,527,872 bytes free
